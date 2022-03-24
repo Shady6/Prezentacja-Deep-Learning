@@ -65,7 +65,7 @@ Neuron przechowuje w sobie wartość zwaną aktywacją, która może przyjąć w
 
 ---
 
-Neuron przechowuje w sobie wartość $<0,1>$, ale można myśleć o nim jako funkcji, Gjjjktóra przyjmuje $n$ wartości i dla nich zwraca wartość $<0,1>$
+Neuron przechowuje w sobie wartość $<0,1>$, ale można myśleć o nim jako funkcji, która przyjmuje $n$ wartości i dla nich zwraca wartość $<0,1>$
 
 ---
 
