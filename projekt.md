@@ -11,6 +11,10 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+section::after {
+  content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+}
 </style>
 
 # Deep Learning
